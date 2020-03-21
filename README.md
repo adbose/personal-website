@@ -1,2 +1,2 @@
 # personal-website
-Source for my personal website at adbose.github.io
+Source for github pages website at adbose.github.io
