@@ -1,0 +1,32 @@
+baseurl = "https://adbose.github.io/"
+title = "Aditya Bose"
+copyright = "Copyright &copy; 2020 - Aditya Bose"
+canonifyurls = true
+theme = "hugo-kiera"
+themesDir = "themes/"
+
+paginate = 3
+
+summaryLength = 30
+enableEmoji = true
+pygmentsCodeFences = true
+
+[author]
+    name = ""
+    github = "adbose"
+    gitlab = ""
+    linkedin = ""
+    facebook = ""
+    twitter = "aditya_bose"
+    instagram = ""
+
+[params]
+    tagline = "Software developer and part-time memelord"
+[[menu.main]]
+    name = "Home" #Name in the navigation bar
+    weight = 10 #The larger the weight, the more on the right this item will be
+    url = "/" #URL address
+[[menu.main]]
+    name = "Posts"
+    weight = 20
+    url = "/posts/"

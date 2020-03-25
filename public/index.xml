@@ -1,0 +1,44 @@
+
+   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+       <title>Aditya Bose</title>
+       <link>https://adbose.github.io/</link>
+       <description>Recent content on Aditya Bose</description>
+       <generator>Hugo -- gohugo.io</generator>
+       <copyright>Copyright &amp;copy; 2020 - Aditya Bose</copyright>
+       <lastBuildDate>Mon, 23 Mar 2020 02:26:23 +0530</lastBuildDate>
+       
+           <atom:link href="https://adbose.github.io/index.xml" rel="self" type="application/rss+xml" />
+       
+       
+       <item>
+         <title>About</title>
+         <link>https://adbose.github.io/about/</link>
+         <pubDate>Mon, 23 Mar 2020 02:26:23 +0530</pubDate>
+         
+         <guid>https://adbose.github.io/about/</guid>
+         <description>&lt;p&gt;&lt;code&gt;Waves are the practice of the water&lt;/code&gt;
+Shunryu Suzuki&lt;/p&gt;
+</description>
+       </item>
+       
+       <item>
+         <title>Homes</title>
+         <link>https://adbose.github.io/home/</link>
+         <pubDate>Mon, 23 Mar 2020 02:39:30 +0530</pubDate>
+         
+         <guid>https://adbose.github.io/home/</guid>
+         <description></description>
+       </item>
+       
+       <item>
+         <title>Posts</title>
+         <link>https://adbose.github.io/posts/</link>
+         <pubDate>Mon, 23 Mar 2020 02:29:14 +0530</pubDate>
+         
+         <guid>https://adbose.github.io/posts/</guid>
+         <description></description>
+       </item>
+       
+     </channel>
+   </rss>

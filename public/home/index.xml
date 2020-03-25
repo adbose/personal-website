@@ -1,0 +1,30 @@
+
+   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+       <title>Homes on Aditya Bose</title>
+       <link>https://adbose.github.io/home/</link>
+       <description>Recent content in Homes on Aditya Bose</description>
+       <generator>Hugo -- gohugo.io</generator>
+       <copyright>Copyright &amp;copy; 2020 - Aditya Bose</copyright>
+       <lastBuildDate>Mon, 23 Mar 2020 02:39:30 +0530</lastBuildDate>
+       
+           <atom:link href="https://adbose.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+       
+       
+       <item>
+         <title>Hello World</title>
+         <link>https://adbose.github.io/home/hello-world/</link>
+         <pubDate>Mon, 23 Mar 2020 02:39:30 +0530</pubDate>
+         
+         <guid>https://adbose.github.io/home/hello-world/</guid>
+         <description>&lt;p&gt;Hello, and welcome to my site! I am glad that you stopped by.&lt;/p&gt;
+&lt;p&gt;This site is a place for me to talk about technology and programming while also trying to document my experiences and lessons working in software development.&lt;/p&gt;
+&lt;p&gt;Feel free to browse around and leave any comments. You can find new updates here or on my Twitter.&lt;/p&gt;
+&lt;p&gt;You can read more about me here or reach out to me here.&lt;/p&gt;
+&lt;p&gt;See you around!&lt;/p&gt;
+&lt;p&gt;Cheers!!&lt;/p&gt;
+</description>
+       </item>
+       
+     </channel>
+   </rss>
