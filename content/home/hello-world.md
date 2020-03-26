@@ -2,7 +2,7 @@
 title = "Hello World"
 date = 2020-03-23T02:39:30+05:30
 draft = true
-tags = []
+tags = ["intro"]
 categories = []
 +++
 Hello, and welcome to my site! I am glad that you stopped by.
