@@ -2,7 +2,3 @@
 	path = themes/hugo-kiera
 	url = https://github.com/avianto/hugo-kiera
 
-[submodule "public"]
-	path = public
-	url = https://github.com/adbose/adbose.github.io.git
-	branch = master
