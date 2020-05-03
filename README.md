@@ -1,2 +1,2 @@
 # personal-website
-Source for personal website @[adbose.github.io](https://adbose.github.io) 
+Source for personal [website](https://adbose.github.io) powered by Hugo.
