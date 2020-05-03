@@ -6,11 +6,11 @@ tags = ["intro"]
 categories = []
 +++
 
-Hello, and welcome to my site! I am glad that you stopped by.
+Hello, and welcome to my blog! I am glad that you stopped by.
 
 This site is mainly a professional journal where I write about engineering and technology, while also trying to document my experiences and lessons working in software development.
 
-Feel free to browse around and leave any comments. You can read more about me [here](../../about) or find my latest updates [here](../../posts).
+Feel free to browse around and leave any comments. You can read more about me [here](about) or find my latest updates [here](posts).
 
 See you around!
 
