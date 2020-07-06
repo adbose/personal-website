@@ -5,7 +5,7 @@ canonifyurls = true
 theme = "hugo-kiera"
 themesDir = "themes/"
 
-paginate = 3
+paginate = 10
 
 summaryLength = 30
 enableEmoji = true
