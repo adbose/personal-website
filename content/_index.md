@@ -8,9 +8,9 @@ categories = []
 
 Hello, and welcome to my blog! I am glad that you stopped by.
 
-This site is mainly a professional journal where I write about engineering and technology, while also trying to document my experiences and lessons working in software development.
+This site is a mainly a journal of my experiences and lessons in programming, along with some occasional opinions and writeups on technology.
 
-Feel free to browse around and leave any comments. You can read more about me [here](about) or find my latest updates [here](posts).
+You can find updates on the things I am working on [here](posts), or read more about me [here](about).
 
 See you around!
 
