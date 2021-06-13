@@ -19,6 +19,8 @@ pygmentsCodeFences = true
 
 [params]
     tagline = "Software developer and part-time memelord"
+    disableDarkModeCSS = false # disables css style for users using dark-mode
+
 [[menu.main]]
     name = "Home" #Name in the navigation bar
     weight = 10 #The larger the weight, the more on the right this item will be
